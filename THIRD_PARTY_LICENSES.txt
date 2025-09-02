@@ -1,0 +1,175 @@
+THIRD-PARTY SOFTWARE LICENSES
+=====================================
+
+This file contains the licenses for third-party software components used in this project.
+You must comply with and provide attribution as required by those third-party licenses. You must also pay attention to the copyright notices inside the respective licenses, found in the links provided under each component.
+The following components are listed with their respective licenses:
+
+=====================================
+
+## amqp
+License: BSD-3-Clause
+Source: https://github.com/celery/py-amqp
+
+## asgiref
+License: BSD-3-Clause
+Source: https://github.com/django/asgiref
+
+## billiard
+License:
+Copyright (c) 2006-2008, R Oudkerk and Contributors
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. Neither the name of author nor the names of any contributors may be
+   used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+Source: https://github.com/celery/billiard
+
+## celery
+License: BSD-3-Clause
+Source: https://github.com/celery/celery
+
+## click
+License: BSD-3-Clause
+Source: https://github.com/pallets/click
+
+## click-didyoumean
+License: MIT
+Source: https://github.com/click-contrib/click-didyoumean
+
+## click-plugins
+License: BSD-3-Clause
+Source: https://github.com/click-contrib/click-plugins
+
+## click-repl
+License: MIT
+Source: https://github.com/click-contrib/click-repl
+
+## Django
+License: BSD-3-Clause
+Source: https://github.com/django/django
+
+## graphene
+License: MIT
+Source: https://github.com/graphql-python/graphene
+
+## graphene-django
+License: MIT
+Source: https://github.com/graphql-python/graphene-django
+
+## graphql-core
+License: MIT
+Source: https://github.com/graphql-python/graphql-core
+
+## graphql-relay
+License: MIT
+Source: https://github.com/graphql-python/graphql-relay-py
+
+## kombu
+License: BSD-3-Clause
+Source: https://github.com/celery/kombu
+
+## packaging
+License: Apache-2.0 OR BSD-2-Clause
+Source: https://github.com/pypa/packaging
+
+## promise
+License: MIT
+Source: https://github.com/syrusakbary/promise
+
+## prompt_toolkit
+License: BSD-3-Clause
+Source: https://github.com/prompt-toolkit/python-prompt-toolkit
+
+## psycopg2-binary
+License: LGPL-3.0-or-later
+Source: https://github.com/psycopg/psycopg2
+
+## python-dateutil
+License: Apache-2.0 AND BSD-3-Clause
+Source: https://github.com/dateutil/dateutil
+
+## python-dotenv
+License: BSD-3-Clause
+Source: https://github.com/theskumar/python-dotenv
+
+## redis
+License: MIT
+Source: https://github.com/redis/redis-py
+
+## six
+License: MIT
+Source: https://github.com/benjaminp/six
+
+## sqlparse
+License: BSD-3-Clause
+Source: https://github.com/andialbrecht/sqlparse
+
+## text-unidecode
+License: Artistic-1.0-Perl
+Source: https://github.com/kmike/text-unidecode
+
+## typing_extensions
+License: Python Software Foundation License
+Source: https://github.com/python/typing_extensions
+
+## tzdata
+License: Apache-2.0
+Source: https://github.com/python/tzdata
+
+## vine
+License: BSD-3-Clause
+Source: https://github.com/celery/vine
+
+## wcwidth
+License:
+The MIT License (MIT)
+
+Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Markus Kuhn -- 2007-05-26 (Unicode 5.0)
+
+Permission to use, copy, modify, and distribute this software
+for any purpose and without fee is hereby granted. The author
+disclaims all warranties with regard to this software.
+Source: https://github.com/jquast/wcwidth
